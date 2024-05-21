@@ -147,3 +147,15 @@ Forma de avaliação:
 Nota máxima: **10**
 
 Nota: É necessário que você coloque o seu nome completo no campo Default Subject pois caso contrário não haverá como comprovar a conclusão. Caso não consiga enviar para os e-mails listados, pode enviar um relatório resumido com a imagem da conclusão do JOB, e de suas dificuldades. Se não entregar a atividade até 31/05/2024 a atividade é zerada.
+
+## Prints
+
+![Image 1](.github/image-1.png)
+![Image 2](.github/image-2.png)
+![Image 2](.github/image-3.png)
+![Image 2](.github/image-4.png)
+![Image 2](.github/image-5.png)
+![Image 2](.github/image-6.png)
+![Image 2](.github/image-7.png)
+![Image 2](.github/image-8.png)
+![Image 2](.github/image-9.png)
